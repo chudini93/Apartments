@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stretto.ConsoleApp", "Stretto.ConsoleApp\Stretto.ConsoleApp.csproj", "{020C6C71-F2E9-4965-8EF5-90A7DD8BECFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{488BE8C3-74E2-4D0F-B3A7-094236CAE48E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020C6C71-F2E9-4965-8EF5-90A7DD8BECFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020C6C71-F2E9-4965-8EF5-90A7DD8BECFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020C6C71-F2E9-4965-8EF5-90A7DD8BECFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020C6C71-F2E9-4965-8EF5-90A7DD8BECFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F56D3F-0BB5-4990-B004-B55EE8597DD4}
+	EndGlobalSection
+EndGlobal
