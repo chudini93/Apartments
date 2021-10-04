@@ -1,11 +1,11 @@
 ﻿using System.IO;
 using System.Net;
 
-namespace Stretto.ConsoleApp.Services
+namespace Stretto.ConsoleApp.Services.Base
 {
     public abstract class HttpRequestWrapper
     {
-        protected string MakeHttpRequest(string url, string method = "GET", int timeoutInMiliseconds = 30000)
+        protected static string MakeHttpRequest(string url, string method = "GET", int timeoutInMiliseconds = 30000)
         {
             try
             {

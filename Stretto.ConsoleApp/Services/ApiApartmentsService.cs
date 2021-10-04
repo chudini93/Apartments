@@ -1,4 +1,5 @@
-﻿using Stretto.ConsoleApp.Services.Interfaces;
+﻿using Stretto.ConsoleApp.Services.Base;
+using Stretto.ConsoleApp.Services.Interfaces;
 
 namespace Stretto.ConsoleApp.Services
 {
